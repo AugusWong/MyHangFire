@@ -1,0 +1,6 @@
+D:\MyDev\MyHangfire\Hangfire.Dashboard.BasicAuthorization\bin\Debug\netstandard2.0\Hangfire.Dashboard.BasicAuthorization.deps.json
+D:\MyDev\MyHangfire\Hangfire.Dashboard.BasicAuthorization\bin\Debug\netstandard2.0\Hangfire.Dashboard.BasicAuthorization.dll
+D:\MyDev\MyHangfire\Hangfire.Dashboard.BasicAuthorization\obj\Debug\netstandard2.0\Hangfire.Dashboard.BasicAuthorization.AssemblyInfoInputs.cache
+D:\MyDev\MyHangfire\Hangfire.Dashboard.BasicAuthorization\obj\Debug\netstandard2.0\Hangfire.Dashboard.BasicAuthorization.AssemblyInfo.cs
+D:\MyDev\MyHangfire\Hangfire.Dashboard.BasicAuthorization\bin\Debug\netstandard2.0\UtilRepo.dll
+D:\MyDev\MyHangfire\Hangfire.Dashboard.BasicAuthorization\obj\Debug\netstandard2.0\Hangfire.Dashboard.BasicAuthorization.csprojAssemblyReference.cache

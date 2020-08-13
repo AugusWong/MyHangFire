@@ -1,0 +1,5 @@
+D:\MyDev\MyHangfire\CommonUtils\bin\Debug\netstandard2.0\CommonUtils.deps.json
+D:\MyDev\MyHangfire\CommonUtils\bin\Debug\netstandard2.0\CommonUtils.dll
+D:\MyDev\MyHangfire\CommonUtils\obj\Debug\netstandard2.0\CommonUtils.csprojAssemblyReference.cache
+D:\MyDev\MyHangfire\CommonUtils\obj\Debug\netstandard2.0\CommonUtils.AssemblyInfoInputs.cache
+D:\MyDev\MyHangfire\CommonUtils\obj\Debug\netstandard2.0\CommonUtils.AssemblyInfo.cs

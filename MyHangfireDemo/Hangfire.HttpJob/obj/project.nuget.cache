@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FPigObaVTJB8JlBp8V/eA3yon8CzdXULayneWFNBzGQHuuaN90IrXBHUpvO8VK1ZJw91eAFcRLmdKW1fURVYjQ==",
+  "success": true,
+  "projectFilePath": "D:\\MyDev\\MyHangfire\\Hangfire.HttpJob\\Hangfire.HttpJob.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\will\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\will\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
