@@ -3,3 +3,15 @@ D:\MyDev\MyHangfire\CommonUtils\bin\Debug\netstandard2.0\CommonUtils.dll
 D:\MyDev\MyHangfire\CommonUtils\obj\Debug\netstandard2.0\CommonUtils.csprojAssemblyReference.cache
 D:\MyDev\MyHangfire\CommonUtils\obj\Debug\netstandard2.0\CommonUtils.AssemblyInfoInputs.cache
 D:\MyDev\MyHangfire\CommonUtils\obj\Debug\netstandard2.0\CommonUtils.AssemblyInfo.cs
+D:\MyDev\MyHangFire\MyHangfireDemo\CommonUtils\bin\Debug\netstandard2.0\CommonUtils.deps.json
+D:\MyDev\MyHangFire\MyHangfireDemo\CommonUtils\bin\Debug\netstandard2.0\CommonUtils.dll
+D:\MyDev\MyHangFire\MyHangfireDemo\CommonUtils\bin\Debug\netstandard2.0\CommonUtils.pdb
+D:\MyDev\MyHangFire\MyHangfireDemo\CommonUtils\bin\Debug\netstandard2.0\UtilRepo.dll
+D:\MyDev\MyHangFire\MyHangfireDemo\CommonUtils\bin\Debug\netstandard2.0\UtilRepo.pdb
+D:\MyDev\MyHangFire\MyHangfireDemo\CommonUtils\obj\Debug\netstandard2.0\CommonUtils.csprojAssemblyReference.cache
+D:\MyDev\MyHangFire\MyHangfireDemo\CommonUtils\obj\Debug\netstandard2.0\CommonUtils.AssemblyInfoInputs.cache
+D:\MyDev\MyHangFire\MyHangfireDemo\CommonUtils\obj\Debug\netstandard2.0\CommonUtils.AssemblyInfo.cs
+D:\MyDev\MyHangFire\MyHangfireDemo\CommonUtils\obj\Debug\netstandard2.0\CommonUtils.csproj.CoreCompileInputs.cache
+D:\MyDev\MyHangFire\MyHangfireDemo\CommonUtils\obj\Debug\netstandard2.0\CommonUtils.csproj.CopyComplete
+D:\MyDev\MyHangFire\MyHangfireDemo\CommonUtils\obj\Debug\netstandard2.0\CommonUtils.dll
+D:\MyDev\MyHangFire\MyHangfireDemo\CommonUtils\obj\Debug\netstandard2.0\CommonUtils.pdb

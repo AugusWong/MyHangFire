@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http;
 using System.Threading.Tasks;
+using Hangfire;
+using Hangfire.Heartbeat;
+using Hangfire.MySql;
+using Hangfire.MySql.Core;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -51,6 +55,24 @@ namespace JobServer
                     }
                 }
                 );
+            services.AddHangfire(config =>
+            {
+                //使用服务器资源监视
+                config.UseHeartbeatPage(checkInterval: TimeSpan.FromSeconds(1));
+
+                if (HangfireSettings.Instance.UseMySql)
+                {
+                    _ = config.UseMySqlStorage(HangfireSettings.Instance.HangfireMysqlConnectionString,
+                        new MySqlStorageOptions
+                        {
+                            //每隔一小时检查过期job
+                            JobExpirationCheckInterval = TimeSpan.FromHours(1),
+                            QueuePollInterval = TimeSpan.FromSeconds(1)
+                        })
+                    .usehan
+                    ;
+                }
+            });
 
         }
         public static ConnectionMultiplexer Redis;

@@ -4,3 +4,15 @@ D:\MyDev\MyHangfire\Hangfire.Dashboard.BasicAuthorization\obj\Debug\netstandard2
 D:\MyDev\MyHangfire\Hangfire.Dashboard.BasicAuthorization\obj\Debug\netstandard2.0\Hangfire.Dashboard.BasicAuthorization.AssemblyInfo.cs
 D:\MyDev\MyHangfire\Hangfire.Dashboard.BasicAuthorization\bin\Debug\netstandard2.0\UtilRepo.dll
 D:\MyDev\MyHangfire\Hangfire.Dashboard.BasicAuthorization\obj\Debug\netstandard2.0\Hangfire.Dashboard.BasicAuthorization.csprojAssemblyReference.cache
+D:\MyDev\MyHangFire\MyHangfireDemo\Hangfire.Dashboard.BasicAuthorization\bin\Debug\netstandard2.0\Hangfire.Dashboard.BasicAuthorization.deps.json
+D:\MyDev\MyHangFire\MyHangfireDemo\Hangfire.Dashboard.BasicAuthorization\bin\Debug\netstandard2.0\Hangfire.Dashboard.BasicAuthorization.dll
+D:\MyDev\MyHangFire\MyHangfireDemo\Hangfire.Dashboard.BasicAuthorization\bin\Debug\netstandard2.0\Hangfire.Dashboard.BasicAuthorization.pdb
+D:\MyDev\MyHangFire\MyHangfireDemo\Hangfire.Dashboard.BasicAuthorization\bin\Debug\netstandard2.0\UtilRepo.dll
+D:\MyDev\MyHangFire\MyHangfireDemo\Hangfire.Dashboard.BasicAuthorization\bin\Debug\netstandard2.0\UtilRepo.pdb
+D:\MyDev\MyHangFire\MyHangfireDemo\Hangfire.Dashboard.BasicAuthorization\obj\Debug\netstandard2.0\Hangfire.Dashboard.BasicAuthorization.csprojAssemblyReference.cache
+D:\MyDev\MyHangFire\MyHangfireDemo\Hangfire.Dashboard.BasicAuthorization\obj\Debug\netstandard2.0\Hangfire.Dashboard.BasicAuthorization.AssemblyInfoInputs.cache
+D:\MyDev\MyHangFire\MyHangfireDemo\Hangfire.Dashboard.BasicAuthorization\obj\Debug\netstandard2.0\Hangfire.Dashboard.BasicAuthorization.AssemblyInfo.cs
+D:\MyDev\MyHangFire\MyHangfireDemo\Hangfire.Dashboard.BasicAuthorization\obj\Debug\netstandard2.0\Hangfire.Dashboard.BasicAuthorization.csproj.CoreCompileInputs.cache
+D:\MyDev\MyHangFire\MyHangfireDemo\Hangfire.Dashboard.BasicAuthorization\obj\Debug\netstandard2.0\Hangfire.Dashboard.BasicAuthorization.csproj.CopyComplete
+D:\MyDev\MyHangFire\MyHangfireDemo\Hangfire.Dashboard.BasicAuthorization\obj\Debug\netstandard2.0\Hangfire.Dashboard.BasicAuthorization.dll
+D:\MyDev\MyHangFire\MyHangfireDemo\Hangfire.Dashboard.BasicAuthorization\obj\Debug\netstandard2.0\Hangfire.Dashboard.BasicAuthorization.pdb

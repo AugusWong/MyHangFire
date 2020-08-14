@@ -1261,11 +1261,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyDev\\MyHangfire\\Hangfire.Dashboard.BasicAuthorization\\Hangfire.Dashboard.BasicAuthorization.csproj",
+      "projectUniqueName": "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\Hangfire.Dashboard.BasicAuthorization\\Hangfire.Dashboard.BasicAuthorization.csproj",
       "projectName": "Hangfire.Dashboard.BasicAuthorization",
-      "projectPath": "D:\\MyDev\\MyHangfire\\Hangfire.Dashboard.BasicAuthorization\\Hangfire.Dashboard.BasicAuthorization.csproj",
+      "projectPath": "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\Hangfire.Dashboard.BasicAuthorization\\Hangfire.Dashboard.BasicAuthorization.csproj",
       "packagesPath": "C:\\Users\\will\\.nuget\\packages\\",
-      "outputPath": "D:\\MyDev\\MyHangfire\\Hangfire.Dashboard.BasicAuthorization\\obj\\",
+      "outputPath": "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\Hangfire.Dashboard.BasicAuthorization\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -1285,8 +1285,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\MyDev\\MyHangfire\\UtilRepo\\UtilRepo.csproj": {
-              "projectPath": "D:\\MyDev\\MyHangfire\\UtilRepo\\UtilRepo.csproj"
+            "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\UtilRepo\\UtilRepo.csproj": {
+              "projectPath": "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\UtilRepo\\UtilRepo.csproj"
             }
           }
         }
@@ -1325,7 +1325,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

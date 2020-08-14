@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NmBof5rELvFTuikUkwhsk6DtUp3yOd/XxedBGkdLgWlgZ3voLrhF+6mSmJtaJSa8xN/br19CYNTlj5YubJq9DA==",
+  "dgSpecHash": "Fu9rfbNuTXhGDaHbb6BariXQabeHXBdPD2Rhc13lxblO0PjxM397DPC9yzAEdXFrqxREJS/U7CPsC8imUnnfdg==",
   "success": true,
-  "projectFilePath": "D:\\MyDev\\MyHangfire\\Hangfire.Dashboard.BasicAuthorization\\Hangfire.Dashboard.BasicAuthorization.csproj",
+  "projectFilePath": "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\Hangfire.Dashboard.BasicAuthorization\\Hangfire.Dashboard.BasicAuthorization.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\will\\.nuget\\packages\\hangfire.aspnetcore\\1.7.12\\hangfire.aspnetcore.1.7.12.nupkg.sha512",
     "C:\\Users\\will\\.nuget\\packages\\hangfire.core\\1.7.12\\hangfire.core.1.7.12.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyDev\\MyHangfire\\CommonUtils\\CommonUtils.csproj": {}
+    "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\CommonUtils\\CommonUtils.csproj": {}
   },
   "projects": {
-    "D:\\MyDev\\MyHangfire\\CommonUtils\\CommonUtils.csproj": {
+    "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\CommonUtils\\CommonUtils.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyDev\\MyHangfire\\CommonUtils\\CommonUtils.csproj",
+        "projectUniqueName": "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\CommonUtils\\CommonUtils.csproj",
         "projectName": "CommonUtils",
-        "projectPath": "D:\\MyDev\\MyHangfire\\CommonUtils\\CommonUtils.csproj",
+        "projectPath": "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\CommonUtils\\CommonUtils.csproj",
         "packagesPath": "C:\\Users\\will\\.nuget\\packages\\",
-        "outputPath": "D:\\MyDev\\MyHangfire\\CommonUtils\\obj\\",
+        "outputPath": "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\CommonUtils\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -31,8 +31,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\MyDev\\MyHangfire\\UtilRepo\\UtilRepo.csproj": {
-                "projectPath": "D:\\MyDev\\MyHangfire\\UtilRepo\\UtilRepo.csproj"
+              "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\UtilRepo\\UtilRepo.csproj": {
+                "projectPath": "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\UtilRepo\\UtilRepo.csproj"
               }
             }
           }
@@ -75,18 +75,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\MyDev\\MyHangfire\\UtilRepo\\UtilRepo.csproj": {
+    "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\UtilRepo\\UtilRepo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyDev\\MyHangfire\\UtilRepo\\UtilRepo.csproj",
+        "projectUniqueName": "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\UtilRepo\\UtilRepo.csproj",
         "projectName": "UtilRepo",
-        "projectPath": "D:\\MyDev\\MyHangfire\\UtilRepo\\UtilRepo.csproj",
+        "projectPath": "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\UtilRepo\\UtilRepo.csproj",
         "packagesPath": "C:\\Users\\will\\.nuget\\packages\\",
-        "outputPath": "D:\\MyDev\\MyHangfire\\UtilRepo\\obj\\",
+        "outputPath": "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\UtilRepo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -134,7 +134,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

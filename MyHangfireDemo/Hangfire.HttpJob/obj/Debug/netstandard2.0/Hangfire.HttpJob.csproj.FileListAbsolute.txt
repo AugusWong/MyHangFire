@@ -1,0 +1,8 @@
+D:\MyDev\MyHangFire\MyHangfireDemo\Hangfire.HttpJob\bin\Debug\netstandard2.0\Hangfire.HttpJob.deps.json
+D:\MyDev\MyHangFire\MyHangfireDemo\Hangfire.HttpJob\bin\Debug\netstandard2.0\Hangfire.HttpJob.dll
+D:\MyDev\MyHangFire\MyHangfireDemo\Hangfire.HttpJob\bin\Debug\netstandard2.0\Hangfire.HttpJob.pdb
+D:\MyDev\MyHangFire\MyHangfireDemo\Hangfire.HttpJob\obj\Debug\netstandard2.0\Hangfire.HttpJob.csprojAssemblyReference.cache
+D:\MyDev\MyHangFire\MyHangfireDemo\Hangfire.HttpJob\obj\Debug\netstandard2.0\Hangfire.HttpJob.AssemblyInfoInputs.cache
+D:\MyDev\MyHangFire\MyHangfireDemo\Hangfire.HttpJob\obj\Debug\netstandard2.0\Hangfire.HttpJob.AssemblyInfo.cs
+D:\MyDev\MyHangFire\MyHangfireDemo\Hangfire.HttpJob\obj\Debug\netstandard2.0\Hangfire.HttpJob.dll
+D:\MyDev\MyHangFire\MyHangfireDemo\Hangfire.HttpJob\obj\Debug\netstandard2.0\Hangfire.HttpJob.pdb

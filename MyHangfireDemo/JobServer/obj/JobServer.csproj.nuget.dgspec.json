@@ -1,17 +1,184 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyDev\\MyHangfire\\JobServer\\JobServer.csproj": {}
+    "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\JobServer\\JobServer.csproj": {}
   },
   "projects": {
-    "D:\\MyDev\\MyHangfire\\Hangfire.HttpJob\\Hangfire.HttpJob.csproj": {
+    "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\Hangfire.HttpJob\\Hangfire.HttpJob.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyDev\\MyHangfire\\Hangfire.HttpJob\\Hangfire.HttpJob.csproj",
+        "projectUniqueName": "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\Hangfire.HttpJob\\Hangfire.HttpJob.csproj",
         "projectName": "Hangfire.HttpJob",
-        "projectPath": "D:\\MyDev\\MyHangfire\\Hangfire.HttpJob\\Hangfire.HttpJob.csproj",
+        "projectPath": "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\Hangfire.HttpJob\\Hangfire.HttpJob.csproj",
         "packagesPath": "C:\\Users\\will\\.nuget\\packages\\",
-        "outputPath": "D:\\MyDev\\MyHangfire\\Hangfire.HttpJob\\obj\\",
+        "outputPath": "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\Hangfire.HttpJob\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\will\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\UtilRepo\\UtilRepo.csproj": {
+                "projectPath": "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\UtilRepo\\UtilRepo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Hangfire.Core": {
+              "target": "Package",
+              "version": "[1.7.12, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\JobServer\\JobServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\JobServer\\JobServer.csproj",
+        "projectName": "JobServer",
+        "projectPath": "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\JobServer\\JobServer.csproj",
+        "packagesPath": "C:\\Users\\will\\.nuget\\packages\\",
+        "outputPath": "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\JobServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\will\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\Hangfire.HttpJob\\Hangfire.HttpJob.csproj": {
+                "projectPath": "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\Hangfire.HttpJob\\Hangfire.HttpJob.csproj"
+              },
+              "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\UtilRepo\\UtilRepo.csproj": {
+                "projectPath": "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\UtilRepo\\UtilRepo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AspNetCore.HealthChecks.Redis": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "AspNetCore.HealthChecks.Uris": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Hangfire.AspNetCore": {
+              "target": "Package",
+              "version": "[1.7.12, )"
+            },
+            "Hangfire.Heartbeat": {
+              "target": "Package",
+              "version": "[0.5.0, )"
+            },
+            "Hangfire.MySql.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.1.58, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\UtilRepo\\UtilRepo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\UtilRepo\\UtilRepo.csproj",
+        "projectName": "UtilRepo",
+        "projectPath": "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\UtilRepo\\UtilRepo.csproj",
+        "packagesPath": "C:\\Users\\will\\.nuget\\packages\\",
+        "outputPath": "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\UtilRepo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -59,92 +226,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\MyDev\\MyHangfire\\JobServer\\JobServer.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\MyDev\\MyHangfire\\JobServer\\JobServer.csproj",
-        "projectName": "JobServer",
-        "projectPath": "D:\\MyDev\\MyHangfire\\JobServer\\JobServer.csproj",
-        "packagesPath": "C:\\Users\\will\\.nuget\\packages\\",
-        "outputPath": "D:\\MyDev\\MyHangfire\\JobServer\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\will\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "netcoreapp3.1"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netcoreapp3.1": {
-            "projectReferences": {
-              "D:\\MyDev\\MyHangfire\\Hangfire.HttpJob\\Hangfire.HttpJob.csproj": {
-                "projectPath": "D:\\MyDev\\MyHangfire\\Hangfire.HttpJob\\Hangfire.HttpJob.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netcoreapp3.1": {
-          "dependencies": {
-            "AspNetCore.HealthChecks.Redis": {
-              "target": "Package",
-              "version": "[3.1.2, )"
-            },
-            "AspNetCore.HealthChecks.Uris": {
-              "target": "Package",
-              "version": "[3.1.2, )"
-            },
-            "Microsoft.Extensions.DependencyInjection": {
-              "target": "Package",
-              "version": "[3.1.7, )"
-            },
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[12.0.3, )"
-            },
-            "StackExchange.Redis": {
-              "target": "Package",
-              "version": "[2.1.58, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

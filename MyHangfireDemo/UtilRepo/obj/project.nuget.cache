@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "01ArUM9iDMfHf20kpYm6skPYkjxM1rgCpQrG+dr3l9YcxZMsHlnEwzCBlGcC6o8ZXse08yI5qU2p3OExd9e4/A==",
+  "dgSpecHash": "WoaAKIlrLpTpHQuBZ8XPADwl1RzWRpNRRnTRI2kFyFwuJQp6t7Grjm0lzPGU1TUjW9Q848gPr8E7dFVfZlTLAg==",
   "success": true,
-  "projectFilePath": "D:\\MyDev\\MyHangfire\\UtilRepo\\UtilRepo.csproj",
+  "projectFilePath": "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\UtilRepo\\UtilRepo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\will\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\will\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
