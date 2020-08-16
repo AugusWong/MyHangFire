@@ -6,3 +6,16 @@ D:\MyDev\MyHangFire\MyHangfireDemo\Hangfire.HttpJob\obj\Debug\netstandard2.0\Han
 D:\MyDev\MyHangFire\MyHangfireDemo\Hangfire.HttpJob\obj\Debug\netstandard2.0\Hangfire.HttpJob.AssemblyInfo.cs
 D:\MyDev\MyHangFire\MyHangfireDemo\Hangfire.HttpJob\obj\Debug\netstandard2.0\Hangfire.HttpJob.dll
 D:\MyDev\MyHangFire\MyHangfireDemo\Hangfire.HttpJob\obj\Debug\netstandard2.0\Hangfire.HttpJob.pdb
+F:\DevSpace\MyHangFire\MyHangfireDemo\Hangfire.HttpJob\obj\Debug\netstandard2.0\Hangfire.HttpJob.csprojAssemblyReference.cache
+F:\DevSpace\MyHangFire\MyHangfireDemo\Hangfire.HttpJob\obj\Debug\netstandard2.0\Hangfire.HttpJob.AssemblyInfoInputs.cache
+F:\DevSpace\MyHangFire\MyHangfireDemo\Hangfire.HttpJob\obj\Debug\netstandard2.0\Hangfire.HttpJob.AssemblyInfo.cs
+F:\DevSpace\MyHangFire\MyHangfireDemo\Hangfire.HttpJob\obj\Debug\netstandard2.0\Hangfire.HttpJob.dll
+F:\DevSpace\MyHangFire\MyHangfireDemo\Hangfire.HttpJob\obj\Debug\netstandard2.0\Hangfire.HttpJob.pdb
+F:\DevSpace\MyHangFire\MyHangfireDemo\Hangfire.HttpJob\bin\Debug\netstandard2.0\Hangfire.HttpJob.deps.json
+F:\DevSpace\MyHangFire\MyHangfireDemo\Hangfire.HttpJob\bin\Debug\netstandard2.0\Hangfire.HttpJob.dll
+F:\DevSpace\MyHangFire\MyHangfireDemo\Hangfire.HttpJob\bin\Debug\netstandard2.0\Hangfire.HttpJob.pdb
+F:\DevSpace\MyHangFire\MyHangfireDemo\Hangfire.HttpJob\bin\Debug\netstandard2.0\UtilRepo.dll
+F:\DevSpace\MyHangFire\MyHangfireDemo\Hangfire.HttpJob\bin\Debug\netstandard2.0\UtilRepo.pdb
+F:\DevSpace\MyHangFire\MyHangfireDemo\Hangfire.HttpJob\obj\Debug\netstandard2.0\Hangfire.HttpJob.csproj.CopyComplete
+F:\DevSpace\MyHangFire\MyHangfireDemo\Hangfire.HttpJob\bin\Debug\netstandard2.0\CommonUtils.dll
+F:\DevSpace\MyHangFire\MyHangfireDemo\Hangfire.HttpJob\bin\Debug\netstandard2.0\CommonUtils.pdb

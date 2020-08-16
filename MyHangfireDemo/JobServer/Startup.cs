@@ -60,6 +60,7 @@ namespace JobServer
                 //使用服务器资源监视
                 config.UseHeartbeatPage(checkInterval: TimeSpan.FromSeconds(1));
 
+                //使用mysql
                 if (HangfireSettings.Instance.UseMySql)
                 {
                     _ = config.UseMySqlStorage(HangfireSettings.Instance.HangfireMysqlConnectionString,
@@ -69,7 +70,8 @@ namespace JobServer
                             JobExpirationCheckInterval = TimeSpan.FromHours(1),
                             QueuePollInterval = TimeSpan.FromSeconds(1)
                         })
-                    .usehan
+                    .UseHangfireHttpJob()
+                    .
                     ;
                 }
             });

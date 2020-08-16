@@ -7,3 +7,11 @@ D:\MyDev\MyHangFire\MyHangfireDemo\UtilRepo\obj\Debug\netstandard2.0\UtilRepo.As
 D:\MyDev\MyHangFire\MyHangfireDemo\UtilRepo\obj\Debug\netstandard2.0\UtilRepo.csproj.CoreCompileInputs.cache
 D:\MyDev\MyHangFire\MyHangfireDemo\UtilRepo\obj\Debug\netstandard2.0\UtilRepo.dll
 D:\MyDev\MyHangFire\MyHangfireDemo\UtilRepo\obj\Debug\netstandard2.0\UtilRepo.pdb
+F:\DevSpace\MyHangFire\MyHangfireDemo\UtilRepo\bin\Debug\netstandard2.0\UtilRepo.deps.json
+F:\DevSpace\MyHangFire\MyHangfireDemo\UtilRepo\bin\Debug\netstandard2.0\UtilRepo.dll
+F:\DevSpace\MyHangFire\MyHangfireDemo\UtilRepo\bin\Debug\netstandard2.0\UtilRepo.pdb
+F:\DevSpace\MyHangFire\MyHangfireDemo\UtilRepo\obj\Debug\netstandard2.0\UtilRepo.csprojAssemblyReference.cache
+F:\DevSpace\MyHangFire\MyHangfireDemo\UtilRepo\obj\Debug\netstandard2.0\UtilRepo.AssemblyInfoInputs.cache
+F:\DevSpace\MyHangFire\MyHangfireDemo\UtilRepo\obj\Debug\netstandard2.0\UtilRepo.AssemblyInfo.cs
+F:\DevSpace\MyHangFire\MyHangfireDemo\UtilRepo\obj\Debug\netstandard2.0\UtilRepo.dll
+F:\DevSpace\MyHangFire\MyHangfireDemo\UtilRepo\obj\Debug\netstandard2.0\UtilRepo.pdb
