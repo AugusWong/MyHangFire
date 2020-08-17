@@ -1,7 +1,6 @@
 D:\MyDev\MyHangFire\MyHangfireDemo\UtilRepo\bin\Debug\netstandard2.0\UtilRepo.deps.json
 D:\MyDev\MyHangFire\MyHangfireDemo\UtilRepo\bin\Debug\netstandard2.0\UtilRepo.dll
 D:\MyDev\MyHangFire\MyHangfireDemo\UtilRepo\bin\Debug\netstandard2.0\UtilRepo.pdb
-D:\MyDev\MyHangFire\MyHangfireDemo\UtilRepo\obj\Debug\netstandard2.0\UtilRepo.csprojAssemblyReference.cache
 D:\MyDev\MyHangFire\MyHangfireDemo\UtilRepo\obj\Debug\netstandard2.0\UtilRepo.AssemblyInfoInputs.cache
 D:\MyDev\MyHangFire\MyHangfireDemo\UtilRepo\obj\Debug\netstandard2.0\UtilRepo.AssemblyInfo.cs
 D:\MyDev\MyHangFire\MyHangfireDemo\UtilRepo\obj\Debug\netstandard2.0\UtilRepo.csproj.CoreCompileInputs.cache

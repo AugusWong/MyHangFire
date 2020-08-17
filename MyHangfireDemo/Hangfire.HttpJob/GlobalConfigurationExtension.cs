@@ -1,5 +1,6 @@
 ﻿using Hangfire;
 using Hangfire.Dashboard;
+using Hangfire.HttpJob.Server;
 using System;
 using System.Reflection;
 using UtilRepo;
@@ -16,7 +17,7 @@ namespace Hangfire.HttpJob
 
             var assembly = typeof(HangfireHttpJobOptions).GetTypeInfo().Assembly;
             //处理http请求
-            DashboardRoutes.Routes.Add("/httpjob",new HttpJobDispatcher)
+            DashboardRoutes.Routes.Add("/httpjob", new HttpJobDispatcher(options));
 
             return config;
         }

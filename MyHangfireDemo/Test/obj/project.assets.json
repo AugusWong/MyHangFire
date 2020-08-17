@@ -27,29 +27,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\TuringW\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\will\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\DevSpace\\MyHangFire\\MyHangfireDemo\\Test\\Test.csproj",
+      "projectUniqueName": "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "F:\\DevSpace\\MyHangFire\\MyHangfireDemo\\Test\\Test.csproj",
-      "packagesPath": "C:\\Users\\TuringW\\.nuget\\packages\\",
-      "outputPath": "F:\\DevSpace\\MyHangFire\\MyHangfireDemo\\Test\\obj\\",
+      "projectPath": "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\Test\\Test.csproj",
+      "packagesPath": "C:\\Users\\will\\.nuget\\packages\\",
+      "outputPath": "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\TuringW\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\will\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -62,8 +57,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "F:\\DevSpace\\MyHangFire\\MyHangfireDemo\\UtilRepo\\UtilRepo.csproj": {
-              "projectPath": "F:\\DevSpace\\MyHangFire\\MyHangfireDemo\\UtilRepo\\UtilRepo.csproj"
+            "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\UtilRepo\\UtilRepo.csproj": {
+              "projectPath": "D:\\MyDev\\MyHangFire\\MyHangfireDemo\\UtilRepo\\UtilRepo.csproj"
             }
           }
         }
@@ -91,7 +86,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

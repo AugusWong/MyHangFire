@@ -1,10 +1,12 @@
 ﻿using CommonUtils;
+using Hangfire.HttpJob.Support;
 using Hangfire.Server;
 using log4net;
 using MailKit.Net.Smtp;
 using MimeKit;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Text;
 
 namespace Hangfire.HttpJob.Server
@@ -90,12 +92,12 @@ namespace Hangfire.HttpJob.Server
         /// <param name="context"></param>
         []
         []
-        []
-        [JobFilter]
+        [DisplayName("Args : [JobName:{1}|QueueName:{2}|IsRetry:{3}]")]
+        [JobFilter(timeoutInSeconds: 3600)]
         public static void Excute(HttpJobItem item, string jobName = null, string queueName = null,
             bool isRetry = true, PerformContext context = null)
-        { 
-        
+        {
+
         }
     }
 }

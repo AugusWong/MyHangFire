@@ -19,3 +19,4 @@ F:\DevSpace\MyHangFire\MyHangfireDemo\Hangfire.HttpJob\bin\Debug\netstandard2.0\
 F:\DevSpace\MyHangFire\MyHangfireDemo\Hangfire.HttpJob\obj\Debug\netstandard2.0\Hangfire.HttpJob.csproj.CopyComplete
 F:\DevSpace\MyHangFire\MyHangfireDemo\Hangfire.HttpJob\bin\Debug\netstandard2.0\CommonUtils.dll
 F:\DevSpace\MyHangFire\MyHangfireDemo\Hangfire.HttpJob\bin\Debug\netstandard2.0\CommonUtils.pdb
+D:\MyDev\MyHangFire\MyHangfireDemo\Hangfire.HttpJob\obj\Debug\netstandard2.0\Hangfire.HttpJob.csproj.CoreCompileInputs.cache
